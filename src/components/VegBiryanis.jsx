@@ -1,4 +1,4 @@
-import vegBiryanis from "../data/vegBiryanis";
+import vegBiryanis from "../data/vegbiryani";
 
 const VegBiryanis = () => {
 return ( <section id="veg-biryanis"  className="veg-section"> <h2>Veg Biryanis 🌱🍛</h2>
