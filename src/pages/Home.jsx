@@ -25,7 +25,7 @@ import TypesBiryani from "../components/TypesBiryani";
 import FamousIndianBiryanis from "../components/FamousIndianBiryanis";
 import NonVegBiryanis from "../components/NonVegBiryanis";
 import VegBiryanis from "../components/VegBiryanis";
-import RiceVarieties from "../components/RiceVarieties";
+import RiceVarieties from "../components/riceVarieties";
 import PreparationMethods from "../components/PreparationMethods";
 import Accompaniments from "../components/Accompaniments";
 import VegVsNonVeg from "../components/VegVsNonVeg";
